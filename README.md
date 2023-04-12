@@ -1,2 +1,3 @@
 # forGITHUB
-i am llearning git and github commands
+i am akash 
+i started learning git and github commands
